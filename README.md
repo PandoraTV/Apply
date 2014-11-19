@@ -18,7 +18,7 @@
 
 마구마구 쏟아내고, 더불어 실현할 수 있는 곳이 바로 판도라TV 입니다.
 
-많은 지원 부탁 드립니다.
+많은 지원 부탁 드립니다 :D
 
 
 
@@ -65,7 +65,7 @@
 - **면접 시 본인 개발 앱 시연 준비 요망**
 
 
-##[판도라TV 페이스북](https://www.facebook.com/pandoratv) / [판도라TV 공식블로그](http://pandoratvwith.tistory.com/)
+##[# 판도라TV 페이스북](https://www.facebook.com/pandoratv) / [판도라TV 공식블로그](http://pandoratvwith.tistory.com/)
 
 
 
