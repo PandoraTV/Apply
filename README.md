@@ -24,7 +24,7 @@
 
 ##지원자격&우대사항
 
-**Nothing without the people "사람이 전부다!" **
+**Nothing without the people "사람이 전부다!"**
 
 사람이 전부라고 생각하는 판도라TV에서는 이런 분을 원해요.
 
