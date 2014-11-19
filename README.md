@@ -65,7 +65,7 @@
 - **면접 시 본인 개발 앱 시연 준비 요망**
 
 
-##[# 판도라TV 페이스북](https://www.facebook.com/pandoratv) / [판도라TV 공식블로그](http://pandoratvwith.tistory.com/)
+[# 판도라TV 페이스북](https://www.facebook.com/pandoratv) / [판도라TV 공식블로그](http://pandoratvwith.tistory.com/)
 
 
 
