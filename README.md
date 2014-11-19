@@ -42,6 +42,7 @@
 - 출근시간을 내 마음대로~ “**Early bird & Late bird 제도”** 
 - 석식제공 / 만두, 컵라면, 토스트, 견과류, 음료수 등 먹는 거, 마실 거 무한지원
 - 각 종 **[동호회 지원](http://pandoratvwith.tistory.com/entry/판도라티비-동호회-구경가자)**
+
   그 밖에 **[판도라TV의 어마무시한 복리후생](http://pandoratvwith.tistory.com/entry/판도라티비-노현승프로의-은밀한-하루-일정)**
 
 
@@ -51,8 +52,8 @@
 - 2014년 11월 17일(월) ~ 채용 시 마감
 - 이력서 & 경력기술서 (경력을 대폭 살린 포트폴리오 必) 
 - **잡코리아 or 메일지원** 
-  http://www.jobkorea.co.kr/Recruit/GI_Read/11956746?Oem_Code=C1
-  ptv.hr@pandora.tv
+ 
+ http://www.jobkorea.co.kr/Recruit/GI_Read/11956746?Oem_Code=C1 / ptv.hr@pandora.tv
 - 진행절차 : 서류검토 → 1차면접 → 2차면접
 - 면접 결과는 전화 or 이메일로 안내 드립니다. 
 - 면접 시 본인 개발 앱 시연 준비 요망
