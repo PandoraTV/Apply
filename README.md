@@ -16,6 +16,7 @@
 많은 지원 부탁 드립니다.
 
 
+
 ##지원자격&우대사항
 
 **Nothing without the people** "사람이 전부다!"
@@ -29,6 +30,7 @@
 - 여자, 남자 성별 상관없어요.
 - **ffmpeg 라이브러리 사용 프로젝트 유경험자 (우대)**
 - **리눅스 환경에서 c, c++ 빌드 경험자 (우대)**
+
 
 
 ##근무조건
@@ -46,6 +48,7 @@
   그 밖에 **[판도라TV의 어마무시한 복리후생](http://pandoratvwith.tistory.com/entry/판도라티비-노현승프로의-은밀한-하루-일정)**
 
 
+
 ##지원기간 및 방법
 
 
@@ -53,14 +56,13 @@
 - 이력서 & 경력기술서 (경력을 대폭 살린 포트폴리오 必) 
 - **잡코리아 or 메일지원** 
  
- http://www.jobkorea.co.kr/Recruit/GI_Read/11956746?Oem_Code=C1 / ptv.hr@pandora.tv
+ http://www.jobkorea.co.kr/Recruit/GI_Read/11956746?Oem_Code=C1   /   ptv.hr@pandora.tv
 - 진행절차 : 서류검토 → 1차면접 → 2차면접
 - 면접 결과는 전화 or 이메일로 안내 드립니다. 
-- 면접 시 본인 개발 앱 시연 준비 요망
+- **면접 시 본인 개발 앱 시연 준비 요망**
 
 
-##[판도라TV 페이스북](https://www.facebook.com/pandoratv)
-##[판도라TV 공식블로그](http://pandoratvwith.tistory.com/)
+##[판도라TV 페이스북](https://www.facebook.com/pandoratv) / ##[판도라TV 공식블로그](http://pandoratvwith.tistory.com/)
 
 
 
